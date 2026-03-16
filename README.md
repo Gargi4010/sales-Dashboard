@@ -48,6 +48,11 @@ The Power BI dashboard includes the following visualizations:
 - Data Visualization Techniques  
 
 ---
+# 📊 Sales Dashboard
+
+![Dashboard Preview](dashboard.png)
+
+---
 
 ## 6. Project Files
 
