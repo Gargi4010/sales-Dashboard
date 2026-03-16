@@ -50,7 +50,7 @@ The Power BI dashboard includes the following visualizations:
 ---
 # 📊 Sales Dashboard
 
-![Dashboard Preview](snapshotofdashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
