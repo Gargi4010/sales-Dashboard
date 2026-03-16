@@ -5,6 +5,7 @@ This project presents a Sales Analysis Dashboard created using Microsoft Power B
 The dashboard helps visualize and analyze sales performance based on different factors such as region, category, segment, and order date.
 The goal of this project is to transform raw sales data into interactive visual insights for better business decision-making.
 
+
 📂 Dataset Information
 The dataset contains the following columns:
 Order Date
